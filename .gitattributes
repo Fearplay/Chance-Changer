@@ -4,3 +4,5 @@
 *.cmake linguist-detectable=false
 *.txt linguist-detectable=false
 *.cc linguist-detectable=false
+windows/runner/* linguist-vendored
+windows/flutter/* linguist-vendored
