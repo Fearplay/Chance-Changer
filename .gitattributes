@@ -1,5 +1,6 @@
-*.cpp linguist-language=Dart
-*.h linguist-language=Dart
-*.cmake linguist-language=Dart
-*.txt linguist-language=Dart
-
+*.dart linguist-detectable=true
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.cmake linguist-detectable=false
+*.txt linguist-detectable=false
+*.cc linguist-detectable=false
