@@ -6,11 +6,15 @@ Desktop app made in flutter which contains:
 3. Coin flipper
 
 ## Table of Contents
+- [Get the app](#get-the-app)
 - [Screenshots](#screenshots)
 - [General](#general)
 - [Requirements](#requirements)
 - [Resources](#resources)
 - [Other](#other)
+
+## Get the app
+- [Microsoft Store](https://apps.microsoft.com/store/detail/chance-changer/9PKC6WWB53ZQ)
 
 ## Screenshots
 ![screenshot](assets/images/screenshots/HomeScreen.PNG)
